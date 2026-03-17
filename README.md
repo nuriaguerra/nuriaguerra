@@ -81,7 +81,9 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuriaguerra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_rank=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuriaguerra&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuriaguerra&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
+
+
 
 </div>
 
