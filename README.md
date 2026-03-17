@@ -77,9 +77,9 @@ Esta sección está pensada para que encuentres lo que necesitas sin perder tiem
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_rank=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuriaguerra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_rank=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuriaguerra&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e)
 
 </div>
 
