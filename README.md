@@ -32,7 +32,7 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 ### Primeiro
 | | Recurso |
 |---|---|
-| 📖 | [Teoría e apuntes](.) |
+| 📖 | [Teoría e apuntes](https://github.com/nuriaguerra/1-Carreira) |
 | 🔧 | [Prácticas resoltas](.) |
 
 ### Segundo
