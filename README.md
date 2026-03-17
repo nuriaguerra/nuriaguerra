@@ -4,61 +4,63 @@
 ╔══════════════════════════════════════════════════╗
 ║                                                  ║
 ║        N U R I A   G U E R R A   C A S A L       ║
-║        Ingeniería Informática                    ║
+║        Enxeñaría Informática                    ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
 
-*Este repositorio es un archivo vivo — crece con cada asignatura, proyecto y error cometido.*
+
+*Este repositorio é un arquivo vivo — medra con cada materia, proxecto e erro cometido.*
 
 </div>
 
 ---
 
-## 01 · Quién soy
+## 01 · Quen son
 
-Soy **Nuria Guerra**, estudiante de **Ingeniería Informática**. Subo aquí apuntes, prácticas y proyectos propios (mientras intento sobrevivir a la carrera con dignidad y café), tanto como referencia para mí misma como para cualquiera que lo necesite durante la carrera.
+Son **Nuria Guerra**, estudante de **Enxeñaría Informática**. Subo aquí apuntes, prácticas e proxectos propios (mentres intento sobrevivir á carreira con dignidade e café), tanto como referencia para min mesma como para quen o precise durante a carreira.
 
-No todo aquí es perfecto. Si algo está mal, incompleto o confuso — abre un issue. Mejorarlo también forma parte del proceso. Lo agradezco de verdad.
+Non todo aquí é perfecto. Se algo está mal, incompleto ou confuso — abre un issue. Melloralo tamén forma parte do proceso. Agradézoo de verdade.
 
-> ⚠ **Sobre el plagio:** Todo lo que hay aquí es material de consulta y referencia, no un botón de “copiar y aprobar”. Usarlo para copiar directamente no te enseña nada y te pone en riesgo. Sé lista/o con eso.
+> ⚠ **Sobre o plaxio:** Todo o que hai aquí é material de consulta e referencia, non un botón de “copiar e aprobar”. Usalo para copiar directamente non che ensina nada e pode traerte problemas. Vai con cabeza.
 
 ---
 
 ## 02 · Recursos por curso
-Esta sección está pensada para que encuentres lo que necesitas sin perder tiempo (porque ya perderás suficiente debuggeando).
+Esta sección está pensada para que atopes o que necesitas sen perder tempo (porque xa perderás bastante depurando).
 
-### Primero
+### Primeiro
 | | Recurso |
 |---|---|
-| 📖 | [Teoría y apuntes](.) |
-| 🔧 | [Prácticas resueltas](.) |
+| 📖 | [Teoría e apuntes](.) |
+| 🔧 | [Prácticas resoltas](.) |
 
 ### Segundo
 | | Recurso |
 |---|---|
-| 📖 | [Teoría — 1er cuatrimestre](.) |
-| 🔧 | [Prácticas — 1er cuatrimestre](.) |
-| 📖 | [Teoría — 2º cuatrimestre](.) |
-| 🔧 | [Prácticas — 2º cuatrimestre](.) |
+| 📖 | [Teoría — 1º cuadrimestre](.) |
+| 🔧 | [Prácticas — 1º cuadrimestre](.) |
+| 📖 | [Teoría — 2º cuadrimestre](.) |
+| 🔧 | [Prácticas — 2º cuadrimestre](.) |
 
-### ▸ Si estás en cursos superiores
-(Contenido en construcción — igual que mi estabilidad mental en época de exámenes)
+### ▸ Se estás en cursos superiores
+(Contido en construción — igual ca a miña estabilidade mental en época de exames)
 
 ---
 
-## 03 · Proyectos en marcha
+## 03 · Proxectos en marcha
 
 ```
-▸ Terminar la carrera ................................ [en progreso]
+▸ Rematar a carreira ............................... [en progreso]
 ▸ Organización perfecta de apuntes ................. [utopía]
-▸ Proyecto personal 01 .............................. [en desarrollo]
-▸ Entender todos los errores a la primera .......... [claramente no]
+▸ Proxecto persoal 01 .............................. [en desenvolvemento]
+▸ Entender todos os erros á primeira ............... [claramente non]
 ```
+
 
 ---
 
-## 04 · Stack y herramientas
+## 04 · Stack e ferramentas
 
 <div align="center">
 
@@ -73,7 +75,7 @@ Esta sección está pensada para que encuentres lo que necesitas sin perder tiem
 
 ---
 
-## 05 · Actividad
+## 05 · Actividade
 
 <div align="center">
 
@@ -85,20 +87,20 @@ Esta sección está pensada para que encuentres lo que necesitas sin perder tiem
 
 ---
 
-## 06 · Para quien llegue después
+## 06 · Para quen chegue despois
 
-Este repositorio intenta ser lo que me hubiera gustado encontrar a mí cuando empecé. No es perfecto ni completo, pero es honesto.
+Este repositorio intenta ser o que me gustaría ter atopado cando empecei. Non é perfecto nin completo, pero é honesto.
 
-Algunos principios que aplico aquí:
+Algúns principios que aplico aquí:
 
-- Los errores en los apuntes se corrigen — señálalos en los issues.
-- El código funciona como guía, no como plantilla para copiar.
-- Si algo te fue útil, pásalo al siguiente.
+- Os erros nos apuntes corríxense — sinalaos nos issues.
+- O código funciona como guía, non como plantilla para copiar.
+- Se algo che foi útil, pásao adiante.
 
 ---
 
 <div align="center">
 
-`nuriaguerra` · Ingeniería Informática
+`nuriaguerra` · Enxeñaría Informática
 
 </div>
