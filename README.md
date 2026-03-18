@@ -53,7 +53,7 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 ```
 ▸ Rematar a carreira ............................... [en progreso]
 ▸ Organización perfecta de apuntes ................. [utopía]
-▸ Proxecto persoal 01 .............................. [en desenvolvemento]
+▸ StudyOS .............................. [en desenvolvemento]
 ▸ Entender todos os erros á primeira ............... [claramente non]
 ```
 
