@@ -9,7 +9,6 @@
 ╚══════════════════════════════════════════════════╝
 ```
 
-
 *Este repositorio é un arquivo vivo — medra con cada materia, proxecto e erro cometido.*
 
 </div>
@@ -22,29 +21,30 @@ Son **Nuria Guerra**, estudante de **Enxeñaría Informática**. Subo aquí apun
 
 Non todo aquí é perfecto. Se algo está mal, incompleto ou confuso — abre un issue. Melloralo tamén forma parte do proceso. Agradézoo de verdade.
 
-> ⚠ **Sobre o plaxio:** Todo o que hai aquí é material de consulta e referencia, non un botón de “copiar e aprobar”. Usalo para copiar directamente non che ensina nada e pode traerte problemas. Vai con cabeza.
+> ⚠ **Sobre o plaxio:** Todo o que hai aquí é material de consulta e referencia, non un botón de "copiar e aprobar". Usalo para copiar directamente non che ensina nada e pode traerte problemas. Vai con cabeza.
 
 ---
 
 ## 02 · Recursos por curso
+
 Esta sección está pensada para que atopes o que necesitas sen perder tempo (porque xa perderás bastante depurando).
 
 ### Primeiro
 | | Recurso |
 |---|---|
 | 📖 | [Teoría e apuntes](https://github.com/nuriaguerra/1-Carreira) |
-| 🔧 | [Prácticas resoltas](.) |
+| 🔧 | [Prácticas resoltas](https://github.com/nuriaguerra/1-Carreira) |
 
 ### Segundo
 | | Recurso |
 |---|---|
-| 📖 | [Teoría — 1º cuadrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/1_Cuatri) |
-| 🔧 | [Prácticas — 1º cuadrimestre](.) |
-| 📖 | [Teoría — 2º cuadrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/2_Cuatri) |
-| 🔧 | [Prácticas — 2º cuadrimestre](.) |
+| 📖 | [Teoría — 1º cuatrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/1_Cuatri) |
+| 🔧 | [Prácticas — 1º cuatrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/1_Cuatri) |
+| 📖 | [Teoría — 2º cuatrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/2_Cuatri) |
+| 🔧 | [Prácticas — 2º cuatrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/2_Cuatri) |
 
 ### ▸ Se estás en cursos superiores
-(Contido en construción — igual ca a miña estabilidade mental en época de exames)
+*(Contido en construción — igual ca a miña estabilidade mental en época de exames)*
 
 ---
 
@@ -56,7 +56,6 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 ▸ Proxecto persoal 01 .............................. [en desenvolvemento]
 ▸ Entender todos os erros á primeira ............... [claramente non]
 ```
-
 
 ---
 
@@ -79,11 +78,10 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuriaguerra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_rank=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuriaguerra&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
-
-
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=nuriaguerra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_rank=false" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=nuriaguerra&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" /></td>
+</tr></table>
 
 </div>
 
@@ -103,6 +101,6 @@ Algúns principios que aplico aquí:
 
 <div align="center">
 
-`nuriaguerra` · Enxeñaría Informática
+`nuriaguerra` · Enxeñaría Informática · Feita con café dende Galiza
 
 </div>
