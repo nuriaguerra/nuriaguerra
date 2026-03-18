@@ -63,12 +63,26 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=a8b5c8)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=coffeescript&logoColor=a8b5c8)
+**Linguaxes**
+
 ![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=a8b5c8)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=a8b5c8)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=a8b5c8)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=a8b5c8)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=coffeescript&logoColor=a8b5c8)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=a8b5c8)
+![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=a8b5c8)
+![R](https://img.shields.io/badge/R-1a1a2e?style=flat-square&logo=r&logoColor=a8b5c8)
+![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=flat-square&logo=gnubash&logoColor=a8b5c8)
+![OpenGL](https://img.shields.io/badge/OpenGL-1a1a2e?style=flat-square&logo=opengl&logoColor=a8b5c8)
+![LaTeX](https://img.shields.io/badge/LaTeX-1a1a2e?style=flat-square&logo=latex&logoColor=a8b5c8)
+
+**Entornos e ferramentas**
+
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=a8b5c8)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-1a1a2e?style=flat-square&logo=visualstudio&logoColor=a8b5c8)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-1a1a2e?style=flat-square&logo=intellijidea&logoColor=a8b5c8)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=a8b5c8)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=a8b5c8)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1a1a2e?style=flat-square&logo=ubuntu&logoColor=a8b5c8)
 
 </div>
 
@@ -101,6 +115,6 @@ Algúns principios que aplico aquí:
 
 <div align="center">
 
-`nuriaguerra` · Enxeñaría Informática · Feita con café dende Galiza
+`nuriaguerra` · Santiago · O mundo é demasiado grande para quedarse parada
 
 </div>
