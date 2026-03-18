@@ -38,8 +38,8 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 ### Segundo
 | | Recurso |
 |---|---|
-| 📖 | [Teoría — 1º cuadrimestre](.) |
-| 🔧 | [Prácticas — 1º cuadrimestre](.) |
+| 📖 | [Teoría — 1º cuadrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/1-Cuatri) |
+| 🔧 | [Prácticas — 1º cuadrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/2-Cuatri) |
 | 📖 | [Teoría — 2º cuadrimestre](.) |
 | 🔧 | [Prácticas — 2º cuadrimestre](.) |
 
