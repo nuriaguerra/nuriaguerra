@@ -74,6 +74,8 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 ![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=flat-square&logo=gnubash&logoColor=a8b5c8)
 ![OpenGL](https://img.shields.io/badge/OpenGL-1a1a2e?style=flat-square&logo=opengl&logoColor=a8b5c8)
 ![LaTeX](https://img.shields.io/badge/LaTeX-1a1a2e?style=flat-square&logo=latex&logoColor=a8b5c8)
+![HTML](https://img.shields.io/badge/HTML-1a1a2e?style=flat-square&logo=html5&logoColor=a8b5c8)
+![CSS](https://img.shields.io/badge/CSS-1a1a2e?style=flat-square&logo=css&logoColor=a8b5c8)
 
 **Entornos e ferramentas**
 
@@ -82,7 +84,8 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-1a1a2e?style=flat-square&logo=intellijidea&logoColor=a8b5c8)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=a8b5c8)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=a8b5c8)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-1a1a2e?style=flat-square&logo=ubuntu&logoColor=a8b5c8)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1a1a2e?style=flat-square&logo=ubuntu&logoColor=a8b5c8
+![UML](https://img.shields.io/badge/UML-1a1a2e?style=flat-square&logo=uml&logoColor=a8b5c8)
 
 </div>
 
