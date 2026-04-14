@@ -84,7 +84,7 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-1a1a2e?style=flat-square&logo=intellijidea&logoColor=a8b5c8)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=a8b5c8)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=a8b5c8)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-1a1a2e?style=flat-square&logo=ubuntu&logoColor=a8b5c8
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1a1a2e?style=flat-square&logo=ubuntu&logoColor=a8b5c8)
 ![UML](https://img.shields.io/badge/UML-1a1a2e?style=flat-square&logo=uml&logoColor=a8b5c8)
 
 </div>
