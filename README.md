@@ -29,22 +29,12 @@ Non todo aquí é perfecto. Se algo está mal, incompleto ou confuso — abre un
 
 Esta sección está pensada para que atopes o que necesitas sen perder tempo (porque xa perderás bastante depurando).
 
-### Primeiro
-| | Recurso |
-|---|---|
-| 📖 | [Teoría e apuntes](https://github.com/nuriaguerra/1-Carreira) |
-| 🔧 | [Prácticas resoltas](https://github.com/nuriaguerra/1-Carreira) |
+### [Primeiro](https://github.com/nuriaguerra/1-Carreira)
 
-### Segundo
-| | Recurso |
-|---|---|
-| 📖 | [Teoría — 1º cuatrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/1_Cuatri) |
-| 🔧 | [Prácticas — 1º cuatrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/1_Cuatri) |
-| 📖 | [Teoría — 2º cuatrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/2_Cuatri) |
-| 🔧 | [Prácticas — 2º cuatrimestre](https://github.com/nuriaguerra/2-Carreira/tree/main/2_Cuatri) |
+### [Segundo](https://github.com/nuriaguerra/2-Carreira)
 
 ### ▸ Se estás en cursos superiores
-*(Contido en construción — igual ca a miña estabilidade mental en época de exames)*
+*(Contido en construción — igual que a miña estabilidade mental en época de exames)*
 
 ---
 
