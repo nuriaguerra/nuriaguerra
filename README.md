@@ -31,7 +31,7 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 
 ### [Primeiro](https://github.com/nuriaguerra/Universidad_USC/1_Curso)
 
-### [Segundo]((https://github.com/nuriaguerra/Universidad_USC/2_Curso))
+### [Segundo]((https://github.com/nuriaguerra/Universidad_USC/2_Curso)
 
 ### ▸ Se estás en cursos superiores
 *(Contido en construción — igual que a miña estabilidade mental en época de exames)*
