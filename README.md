@@ -40,7 +40,7 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 
 ## 03 · Destacados e Hackatons
 
-- 🥈 **Impacthon 2026:** Participante no Impacthon 2026, onde desenvolvemos o proxecto [TouchGrass](https://github.com/nuriaguerra/TouchGrass) e conseguimos o **2º posto no reto GEM**.
+- 🥈 **Impacthon 2026:** Participante no Impacthon 2026, onde desenvolvemos o proxecto [TouchGrass](https://github.com/nuriaguerra/Impacthon) e conseguimos o **2º posto no reto GEM**.
 
 ---
 
