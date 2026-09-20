@@ -29,16 +29,22 @@ Non todo aquí é perfecto. Se algo está mal, incompleto ou confuso — abre un
 
 Esta sección está pensada para que atopes o que necesitas sen perder tempo (porque xa perderás bastante depurando).
 
-### [Primeiro](https://github.com/nuriaguerra/Universidad_USC/1_Curso)
-
-### [Segundo](https://github.com/nuriaguerra/Universidad_USC/2_Curso)
+- [📁 Primeiro Curso (USC)](https://github.com/nuriaguerra/Universidad_USC/tree/main/1_Curso)
+- [📁 Segundo Curso (USC)](https://github.com/nuriaguerra/Universidad_USC/tree/main/2_Curso)
+- [📁 Terceiro Curso (Erasmus)](https://github.com/nuriaguerra/Universidad_USC/tree/main/3_Curso_Erasmus)
 
 ### ▸ Se estás en cursos superiores
 *(Contido en construción — igual que a miña estabilidade mental en época de exames)*
 
 ---
 
-## 03 · Proxectos en marcha
+## 03 · Destacados e Hackatons
+
+- 🥈 **Impacthon 2026:** Participante no Impacthon 2026, onde desenvolvemos o proxecto [TouchGrass](https://github.com/nuriaguerra/TouchGrass) e conseguimos o **2º posto no reto GEM**.
+
+---
+
+## 04 · Proxectos en marcha
 
 ```
 ▸ Rematar a carreira ............................... [en progreso]
@@ -49,7 +55,7 @@ Esta sección está pensada para que atopes o que necesitas sen perder tempo (po
 
 ---
 
-## 04 · Stack e ferramentas
+## 05 · Stack e ferramentas
 
 <div align="center">
 
