@@ -29,9 +29,9 @@ Non todo aquí é perfecto. Se algo está mal, incompleto ou confuso — abre un
 
 Esta sección está pensada para que atopes o que necesitas sen perder tempo (porque xa perderás bastante depurando).
 
-### [Primeiro](https://github.com/nuriaguerra/1-Carreira)
+### [Primeiro](https://github.com/nuriaguerra/Universidad_USC/1_Curso)
 
-### [Segundo](https://github.com/nuriaguerra/2-Carreira)
+### [Segundo]((https://github.com/nuriaguerra/Universidad_USC/2_Curso))
 
 ### ▸ Se estás en cursos superiores
 *(Contido en construción — igual que a miña estabilidade mental en época de exames)*
